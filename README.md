@@ -2,6 +2,7 @@
 the repo description
 
 ## TODO
-- [ ] add `hello.sh` script, that prints `hello`
+
 
 ## DONE
+- [x] add `hello.sh` script, that prints `hello`
