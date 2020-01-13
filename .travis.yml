@@ -3,4 +3,4 @@ dist: bionic
 sudo: required
 
 script:
-- echo 0
+- exit 0
